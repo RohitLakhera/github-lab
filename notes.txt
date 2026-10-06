@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello i am ultron,
 i am here learning  git session
+=======
+sadssdasdsasad
+>>>>>>> 54199738c152b2fd87a6c6929172be7abb561bc7
